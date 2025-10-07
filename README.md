@@ -1,7 +1,5 @@
 # 🧠 GenTherapist - AI Mental Health Chatbot
 
-[![Python](https://img.shields.io![Django](https://img.shields.ioob](https://img.shields.io/badge/NLP-TextBlob-orange.//img.shields.io/badge/License-MIT-yellow
-[![Status](https://img.shields.io/badge/Status-Active-success
 > An intelligent mental health support chatbot that provides evidence-based Cognitive Behavioral Therapy (CBT) techniques through natural conversation. Built with Django and powered by rule-based AI - works completely offline with no external APIs.
 
 ***
@@ -385,10 +383,4 @@ If GenTherapist helped you, please give it a ⭐ on GitHub!
 
 *Making therapy techniques accessible, one conversation at a time.*
 
-[Report Bug](https://github.com/yourusername/GenTherapist/issues) · [Request Feature](https://github.com/yourusername/GenTherapist/issues) · [Documentation](https://github.com/yourusername/GenTherapist/wiki)
 
-</div>
-
-***
-
-**Copy this entire content, create `README.md` in your project root, replace `yourusername` with your GitHub username, and push to GitHub!** 🚀
